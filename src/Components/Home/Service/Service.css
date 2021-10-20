@@ -1,0 +1,33 @@
+.image{
+    height:250px;
+}
+.singleCard{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.singleCard:hover{
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+   
+
+}
+   
+.button{
+    padding: 5px 10px;
+    border: 1px solid blue;
+    color: blue;
+    border-radius: 8px;
+}
+.button:hover{
+    cursor: pointer;
+    background-color: rgba(13, 13, 235, 0.685);
+    color: white;
+
+}
+.detailLink:hover{
+
+    color: white;
+   
+}
+.detailLink{
+    text-decoration: none;
+    color:  rgba(13, 13, 235, 0.685);;
+}

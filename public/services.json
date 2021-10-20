@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "category": "Expert Doctors",
+        "about":"Meet Best doctors to share your health problem",
+        "img": "https://i.ibb.co/jrvCtMc/successful-medical-team.jpg",
+        "price": "Accessible Price",
+        "Available": "24 hours",
+        "desceiption": "Meet our Best Doctords and share your problem.As well as being expert in respective field ,they are international graded.MediTech is determined to provide you all facilities which are essential for you physical well-being and healtht life.",
+        "facility": "15% discount for out previos customer",
+        "discount": "Register on MediTech and enjoy 10% off"
+    },
+    {
+        "id": 2,
+        "category": "Pathology",
+        "about":"Report from MediTech By our expert doctors and upgraded equipments ",
+        "img": "https://i.ibb.co/JQGLWhC/pathology.jpg",
+        "price": "test-dependent",
+        "Available": "24 hours",
+        "desceiption": "Identify your problem with out all new ultrasono technology.MediTech is determined to provide you the best service.Our all new and updated equipments ensure you to have quality service for your health concern.",
+        "facility": "15% discount for out previos customer",
+        "discount": "Register on MediTech and enjoy 10% off"
+    },
+    {
+        "id": 3,
+        "category": "Ultrasonography",
+        "about":"Have yout best experience with our modern ultrasono system",
+        "img": "https://i.ibb.co/PG4MgvD/man-getting-ultrasound-abdomen-from-doctor.jpg",
+        "price": 25,
+        "Available": "24 hours",
+        "desceiption": "Identify your problem with out all new ultrasono technology.MediTech is determined to provide you the best service.Our all new and updated equipments ensure you to have quality service for your health concern.",
+        "facility": "15% discount for out previos customer",
+        "discount": "Register on MediTech and enjoy 10% off"
+    },
+    {
+        "id": 4,
+        "category": "X-Ray",
+        "about":"Harmless X-Ray technology for your health concern  ",
+        "img": "https://i.ibb.co/WFMvtVD/senior-woman-undergoing-x-ray-test.jpg",
+        "price": 18,
+        "Available": "24 hours",
+        "desceiption": "Identify your problem with out all new ultrasono technology.MediTech is determined to provide you the best service.Our all new and updated equipments ensure you to have quality service for your health concern.",
+        "facility": "15% discount for out previos customer",
+        "discount": "Register on MediTech and enjoy 10% off"
+    },
+    {
+        "id": 5,
+        "category": "Eco-Cardiogram",
+        "about":"Up-to-Dated ECG system for cardiac patients to make them untensed ",
+        "img": "https://i.ibb.co/7z6RVRt/360-F-290470191-OIjv-Qy1a-ZJp4wu-Yp-Rv-Ls6n-IMzv-LMf-INu.jpg",
+        "price": 30,
+        "Available": "24 hours",
+        "desceiption": "Identify your problem with out all new ultrasono technology.MediTech is determined to provide you the best service.Our all new and updated equipments ensure you to have quality service for your health concern.",
+        "facility": "15% discount for out previos customer",
+        "discount": "Register on MediTech and enjoy 10% off"
+    },
+    {
+        "id": 6,
+        "category": "SityScan",
+        "about":"August environment for cityScan for a enjoyable experience ",
+        "img": "https://i.ibb.co/r5XzgMP/Female-doctor-showing-CT-scan-to-patient-in-examination-room-at-hospital.jpg",
+        "price": 40,
+        "Available": "24 hours",
+        "desceiption": "Identify your problem with out all new ultrasono technology.MediTech is determined to provide you the best service.Our all new and updated equipments ensure you to have quality service for your health concern.",
+        "facility": "15% discount for out previos customer",
+        "discount": "Register on MediTech and enjoy 10% off"
+    },
+    {
+        "id": 7,
+        "category": "Endoscopy",
+        "about":"We provide best doctor for your endoscopy to feel you easier",
+        "img": "https://i.ibb.co/1n43d6k/Endoscopy-at-the-hospital-Doctor-holding-endoscope-before-gastroscopy-Medical-examination.jpg",
+        "price": 35,
+        "Available": "24 hours",
+        "desceiption": "Identify your problem with out all new ultrasono technology.MediTech is determined to provide you the best service.Our all new and updated equipments ensure you to have quality service for your health concern.",
+        "facility": "15% discount for out previos customer",
+        "discount": "Register on MediTech and enjoy 10% off"
+    },
+    {
+        "id": 8,
+        "category": "Physiotherapy",
+        "about":"Meet Best physiotherapist to share your health problem",
+        "img": "https://i.ibb.co/KbZ7nwK/physioandpatient-3.jpg",
+        "price": "test-dependent",
+        "Available": "24 hours",
+        "desceiption": "Meet our Best physiotherapist and share your problem.As well as being expert in physiotherapist field ,they are international graded.MediTech is determined to provide you all facilities which are essential for you physical well-being and healtht life.",
+        "facility": "15% discount for out previos customer",
+        "discount": "Register on MediTech and enjoy 10% off"
+    },
+    {
+        "id": 9,
+        "category": "Ambulance Service",
+        "about":"Our 24/7 working ambulance ensures you to have one in your concerned moment",
+        "img": "https://i.ibb.co/g72wm4F/Ambulance-car-back.jpg",
+        "price": "Location Depended",
+        "Available": "24 hours",
+        "desceiption": "MediTech Ambulance Service is always ready to provide you whenever you need a qualityful and urdent ambulance.Contact us for any emergency.For our registered member MediTech ambulance service is completely free for their emergencies",
+        "facility": "15% discount for out previos customer",
+        "discount": "Register on MediTech and enjoy 10% off"
+    }
+]

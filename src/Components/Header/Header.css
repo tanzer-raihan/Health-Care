@@ -1,0 +1,15 @@
+.navbar{
+ 
+    background-color: aliceblue;
+    color:Blue;
+}
+.logoutbtn{
+    background-color: aliceblue;
+    border: 1px solid aliceblue ;
+}
+.logoutbtn:hover{
+    border: 2px solid rgba(7, 7, 233, 0.801);
+    color: rgba(14, 14, 235, 0.795);
+    padding: 0px 5px;
+    border-radius: 5px;
+}
