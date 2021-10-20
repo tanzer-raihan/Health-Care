@@ -16,15 +16,15 @@ const Banner = () => {
                     </div>
                     <div className='d-flex justify-content-around align-items-betweeen flex-wrap '>
                         <div>
-                           <h3><i class="fas fa-user-md"></i></h3>
+                            <h3><i className="fas fa-user-md"></i></h3>
                             <h4>Treatment</h4>
                         </div>
                         <div>
-                            <h3><i class="fas fa-file-medical-alt"></i></h3>
+                            <h3><i className="fas fa-file-medical-alt"></i></h3>
                             <h4>Diagnosis</h4>
                         </div>
                         <div>
-                            <h3><i class="fas fa-hand-holding-medical"></i></h3>
+                            <h3><i className="fas fa-hand-holding-medical"></i></h3>
                             <h4>Health Care</h4>
                         </div>
                     </div>

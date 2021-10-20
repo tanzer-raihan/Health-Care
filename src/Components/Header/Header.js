@@ -6,14 +6,14 @@ import useAuth from '../../AuthProvider/useAuth';
 import './Header.css'
 const Header = () => {
     const { user, logOut, userName } = useAuth();
-    console.log(user)
+    
 
 
     return (
         <div >
             <Navbar sticky="top" collapseOnSelect expand="lg" className='navbar' >
                 <Container>
-                    <Navbar.Brand href="#home"><h4><i class="fas fa-clinic-medical font"></i> <span className='text-custom'>MediTech</span> </h4></Navbar.Brand>
+                    <Navbar.Brand href="#home"><h4><i className="fas fa-clinic-medical font"></i> <span className='text-custom'>MediTech</span> </h4></Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="me-auto">
@@ -34,10 +34,10 @@ const Header = () => {
 
                         </Nav>
 
-                         <h6>
+                        <h6>
                             {userName || user.displayName}
                         </h6>
-                      
+
 
                     </Navbar.Collapse>
                 </Container>

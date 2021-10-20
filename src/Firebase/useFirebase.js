@@ -99,7 +99,7 @@ const useFirebase = () => {
             if (user) {
 
                 setUser(user);
-                console.log(user);
+                
                 // ...
             } else {
 

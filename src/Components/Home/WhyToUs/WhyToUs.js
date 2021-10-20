@@ -12,40 +12,40 @@ const WhyToUs = () => {
                 <h6 className='text-secondary'>Because we are determined to provide the Best</h6>
             </div>
             <div className='row   d-flex flex-wrap justify-content-center align-items-center '>
-                <div class=" col-md-6 col-sm-12 row row-cols-1 row-cols-md-2 g-4 mt-5">
-                    <div class="col ">
-                        <div class="card h-100 whyCard">
-                            <img src={patient} class="card-img-top whyPhoto" alt="..." />
-                            <div class="card-body">
-                                <h5 class="card-title">Most Client Satisfactory</h5>
-                                <p class="card-text text-secondary">We have been providing services for more than 12 years to a enormous number of happy clients </p>
+                <div className=" col-md-6 col-sm-12 row row-cols-1 row-cols-md-2 g-4 mt-5">
+                    <div className="col ">
+                        <div className="card h-100 whyCard">
+                            <img src={patient} className="card-img-top whyPhoto" alt="..." />
+                            <div className="card-body">
+                                <h5 className="card-title">Most Client Satisfactory</h5>
+                                <p className="card-text text-secondary">We have been providing services for more than 12 years to a enormous number of happy clients </p>
                             </div>
                         </div>
                     </div>
-                    <div class="col">
-                        <div class="card h-100 whyCard">
-                            <img src={tech} class="card-img-top whyPhoto" alt="..." />
-                            <div class="card-body">
-                                <h5 class="card-title">Most Advanced Technology</h5>
-                                <p class="card-text text-secondary">Each of our equipment is qp-to-dated to provide you the best servise</p>
+                    <div className="col">
+                        <div className="card h-100 whyCard">
+                            <img src={tech} className="card-img-top whyPhoto" alt="..." />
+                            <div className="card-body">
+                                <h5 className="card-title">Most Advanced Technology</h5>
+                                <p className="card-text text-secondary">Each of our equipment is qp-to-dated to provide you the best servise</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col">
-                        <div class="card h-100 whyCard">
-                            <img src={doctor} class="card-img-top whyPhoto" alt="..." />
-                            <div class="card-body">
-                                <h5 class="card-title">Expert and Patient Friendly Physician</h5>
-                                <p class="card-text text-secondary">Take Counsel from our expert doctor and share problems freely</p>
+                    <div className="col">
+                        <div className="card h-100 whyCard">
+                            <img src={doctor} className="card-img-top whyPhoto" alt="..." />
+                            <div className="card-body">
+                                <h5 className="card-title">Expert and Patient Friendly Physician</h5>
+                                <p className="card-text text-secondary">Take Counsel from our expert doctor and share problems freely</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col">
-                        <div class="card h-100 whyCard">
-                            <img src={homeService} class="card-img-top whyPhoto" alt="..." />
-                            <div class="card-body">
-                                <h5 class="card-title">Provide To Door Treatment</h5>
-                                <p class="card-text text-secondary">Our physicians are always ready top provide you to door service whenever you ask</p>
+                    <div className="col">
+                        <div className="card h-100 whyCard">
+                            <img src={homeService} className="card-img-top whyPhoto" alt="..." />
+                            <div className="card-body">
+                                <h5 className="card-title">Provide To Door Treatment</h5>
+                                <p className="card-text text-secondary">Our physicians are always ready top provide you to door service whenever you ask</p>
                             </div>
                         </div>
                     </div>

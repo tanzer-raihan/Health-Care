@@ -14,19 +14,19 @@ const Motivs = () => {
                 </div>
                 <div className='d-flex justify-content-around align-items-center aboutUs  mt-5 text-primary'>
                     <div>
-                        <p className='font'><i class="fas fa-users"></i></p>
+                        <p className='font'><i className="fas fa-users"></i></p>
                         <h6>9000+ Happy Clients</h6>
                     </div>
                     <div>
-                        <p className='font'><i class="fas fa-user-md"></i></p>
+                        <p className='font'><i className="fas fa-user-md"></i></p>
                         <h6>60+ Doctors</h6>
                     </div>
                     <div>
-                        <p className='font'><i class="far fa-calendar-alt"></i></p>
+                        <p className='font'><i className="far fa-calendar-alt"></i></p>
                         <h6>12+ Years Experience</h6>
                     </div>
                     <div>
-                        <p className='font'><i class="fas fa-briefcase-medical"></i></p>
+                        <p className='font'><i className="fas fa-briefcase-medical"></i></p>
                         <h6>9+ Services</h6>
                     </div>
                 </div>

@@ -17,37 +17,37 @@ const Service = (props) => {
     }
     return (
         <div >
-            <div class="col singleCard">
-                <div class="card h-100">
-                    <img src={img} class="card-img-top card-img image" alt="..." />
-                    <div class="card-body">
-                        <h4 class="card-title">{category}</h4>
-                        <h6 class="card-text text-secondary">{about}</h6>
+            <div className="col singleCard">
+                <div className="card h-100">
+                    <img src={img} className="card-img-top card-img image" alt="..." />
+                    <div className="card-body">
+                        <h4 className="card-title">{category}</h4>
+                        <h6 className="card-text text-secondary">{about}</h6>
                         <div className='mt-5'>
                             <button className='button me-2'>Book Now</button>
                             <button className='button ms-2'> <NavLink className='detailLink' to={{
 
-                                    pathname:`/services/${id}`,
-                                    state:{
-                                        
-                                        obj:props.service
-                                    }
+                                pathname: `/services/${id}`,
+                                state: {
+
+                                    obj: props.service
+                                }
 
                             }}
-                             
-                            
-                            
-                            
+
+
+
+
                             >See Details</NavLink></button>
+                        </div>
+
                     </div>
+
+
 
                 </div>
 
-
-
             </div>
-
-        </div>
         </div >
     );
 };

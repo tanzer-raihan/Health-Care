@@ -8,7 +8,7 @@ const Appointment = () => {
         <div className='container appointment text-center'>
             <div className='row d-flex justify-content-center align-items-center'>
                 <div className="col-md-4 col-lg-4 col-sm-10 text-start ms-3">
-                    <h5><i class="fas fa-clinic-medical font"></i> <span className='text-custom'>MediTech</span></h5>
+                    <h5><i className="fas fa-clinic-medical font"></i> <span className='text-custom'>MediTech</span></h5>
                     <h6>Secure Patient Portal</h6>
                     <p>Standard turnaround time for messages or request sent via portal.If you have urdent ,call our office <span className='text-primary'>+9495675635</span></p>
                 </div>
